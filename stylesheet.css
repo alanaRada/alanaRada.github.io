@@ -10,3 +10,7 @@ p {
 #unique-id {
     border: 2px solid red;
 }
+
+a:hover {
+    color: orange;
+}
