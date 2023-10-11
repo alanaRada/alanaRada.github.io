@@ -6,3 +6,7 @@ p {
 .custom-class{
 	background-color: lightblue;
 }
+
+#unique-id {
+    border: 2px solid red;
+}
