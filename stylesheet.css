@@ -2,3 +2,7 @@ p {
 	font-size: 16px;
 	color: #333;
 }
+
+.custom-class{
+	background-color: lightblue;
+}
